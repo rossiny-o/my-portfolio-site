@@ -4,6 +4,27 @@
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
+/* ----------- */
+
+/* My custom edits */
+
+.download-resume {
+
+  color: #45505b;
+  padding: 10px 18px;
+  transition: 0.3s;
+  font-size: 15px;
+  border-style: none;
+  border-color: #71b197;
+  border-radius: 50px;
+  background: #f2f3f5;
+
+}
+
+.download-resume:hover {
+  color: #fff;
+  background: #71b197
+}
 
 /*--------------------------------------------------------------
 # General
