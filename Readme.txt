@@ -3,7 +3,6 @@
 Hello my name is Rossiny St Cyr.
 Welcome to my Web Developer Portfolio Site. This site showcases my skills, experience, and projects as a web developer.
 
-
 # Features
 The site features a clean and modern design that highlights my skills and experience as a web developer. It includes a variety of sections, including:
 
